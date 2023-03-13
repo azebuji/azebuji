@@ -1,1 +1,1 @@
-Olá, me chamo Anderson, e sou desenvolvedor back e front-end, mas sou mais ligado no mundo do back-end, uso as tecnologias, react para o front-end e nodejs "express" para o back end.
+Olá, me chamo Anderson, e sou desenvolvedor de sistemas. Sou sinto que sou muito curioso e sempre fico empolgado com novas formas de fazer algo diferente e de forma mais eficiente, mas preocupado demais ao ponto de me causar muita ansiedade ao mesmo tempo ;), equilibrio é o ponto de um bom desenvolvimento pleno e consciente.
