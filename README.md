@@ -1,4 +1,4 @@
-Olá, me chamo Anderson, e sou desenvolvedor de sistemas. Atualmente trabalho em minha própria empresa "Maqcode", e faço parte do time da Brbit sistemas.
+Olá, me chamo Anderson, e sou desenvolvedor de sistemas. Atualmente trabalho em minha própria empresa "Maqcode".
 
 Sou uma pessoa criativa, e procuro trabalhar da melhor forma possível entre o meio social em que me encontro, gosto de conversar com todo o time e pessoas das quais fazem parte da minha jornada nessa vida.
 
