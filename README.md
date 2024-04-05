@@ -15,7 +15,7 @@ Here are some ideas to know more about me:
 - 📫 How to reach me: 
    📞celphone: +55 47 991993490 
       linkedin: https://www.linkedin.com/in/anderson-richard-de-souza-12a43513b/
+      Gitlab: https://gitlab.com/azebuji
    📩email: azebuji@gmail.com
-- ⚡ Fun fact: hy do programmers always mix up Christmas and Halloween?
-Because Oct 31 == Dec 25!" 😄
+- ⚡ Fact: Everyday the life give to you something to deal
 
