@@ -1,21 +1,21 @@
+🚀 **Desenvolvedor Full-Stack: Transformando Ideias em Realidade**
 
-##Hello
+Olá! Sou um apaixonado desenvolvedor Full-Stack com uma jornada de 4 a 5 anos em tecnologias como Node.js, React e muito mais. Ao longo da minha carreira, construí e aprimorei diversas APIs do zero, tanto em projetos próprios quanto para clientes de alto nível.
 
-I'm Anderson, and I working everyday to reach in my goals. I can't describe me with just text, just send me a message and let's take a conversation :D
+**Node.js:**
+- Domínio em desenvolvimento de APIs complexas, incluindo funcionalidades avançadas como envio de imagens com Multer e sistema de roteamento de rotas.
+- Expertise em organização de projetos com o Padrão Hierárquico de Organização de Pastas para APIs Node.js, garantindo escalabilidade e manutenibilidade.
+- Implementação de sistemas de login seguro com JWT, comunicação com gateways de pagamento via Axios e integração de diversos bancos de dados usando ORM's como Knex e Prisma.
+- Proficiência em gerenciamento de variáveis de ambiente, uso de PM2 para manter aplicações estáveis e desenvolvimento de sistemas próprios de tratamento de erros.
 
-<!--
-**azebuji/azebuji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-Here are some ideas to know more about me:
+**React:**
+- Experiência sólida de 4 a 5 anos na construção de interfaces dinâmicas e responsivas, utilizando os principais hooks como useState, useEffect e useContext.
+- Conhecimento profundo em programação funcional e componentização eficiente, permitindo a reutilização de código e a manutenção simplificada.
+- Habilidades em integração com APIs back-end através do Axios, gerenciamento de estado local com localStorage e sessionStorage, e desenvolvimento de aplicações com MediaStream.
 
-- 🔭 I’m currently working on something soo cool, that can be a tool very useful for people
-- 🌱 I’m currently learning Adonis and nextjs
-- 👯 I’m looking to collaborate on projects that are inovator and make me grown up 
-- 💬 Ask me about what I'm working in the next five years and where will I be
-- 📫 How to reach me: 
-   📞celphone: +55 47 991993490 
-      linkedin: https://www.linkedin.com/in/anderson-richard-de-souza-12a43513b/
-      Gitlab: https://gitlab.com/azebuji
-   📩email: azebuji@gmail.com
-- ⚡ Fact: Everyday the life give to you something to deal
+**React Native:**
+- 1 a 2 anos de experiência na criação de aplicativos móveis utilizando o Expo, abrangendo desde a criação de telas e interação de recursos até a implementação de formulários e funcionalidades básicas.
 
+Além disso, possuo conhecimentos adicionais em Python, Docker, sistemas de mensageria como Kafka e estou explorando IA para reconhecimento facial. Meu portfólio inclui uma variedade de projetos, desde sistemas de gestão empresarial até aplicativos móveis e sistemas de atendimento humanizado.
+
+Estou sempre em busca de desafios empolgantes e oportunidades para aplicar meu conhecimento e criatividade. Vamos construir algo incrível juntos! 🚀
